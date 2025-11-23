@@ -19,24 +19,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Hamidreza Ranjkesh"
-        self.role = "Computer Engineer & Full Stack Developer"
-        self.focus = ["Automation", "Security Tools", "AI Integration", "Bot Development"]
-        self.motto = "Build it right, or don't build it at all."
-    
-    def get_expertise(self):
-        return {
-            "languages": ["Python", "Go", "C#", "JavaScript"],
-            "ai_ml": ["Ollama", "Qwen", "Gemini", "Local LLMs"],
-            "infra": ["Docker", "Nginx", "Linux", "N8N"],
-            "security": ["SSH Tools", "Network Analysis", "RDP Security"]
-        }
-```
 
 🔭 **Currently Working On:** Offline AI systems + Advanced automation workflows  
 ⚡ **Philosophy:** Clean code, scalable architecture, comprehensive documentation

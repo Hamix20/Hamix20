@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=280&section=header&text=Hamidreza%20Ranjkesh&fontSize=75&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineer%20|%20Full%20Stack%20Developer%20|%20Security%20Researcher&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:003366,100:000000&height=280&section=header&text=Hamidreza%20Ranjkesh&fontSize=75&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineer%20|%20Full%20Stack%20Developer%20|%20Security%20Researcher&descAlignY=55&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=Automation+%26+System+Architecture;Security+Tools+Development;AI+Integration+Specialist;Telegram+Bot+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0099FF&center=true&vCenter=true&width=600&lines=Automation+%26+System+Architecture;Security+Tools+Development;AI+Integration+Specialist;Telegram+Bot+Development" alt="Typing SVG" />
 </a>
 
 <p>
   <a href="https://t.me/Hamix_20">
-    <img src="https://img.shields.io/badge/Telegram-Hamix__20-DC143C?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/Telegram-Hamix__20-0088CC?style=for-the-badge&logo=telegram&logoColor=white&labelColor=001F3F"/>
   </a>
   <a href="mailto:hamidreza.ranjkesh80@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-DC143C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=001F3F"/>
   </a>
 </p>
 
@@ -29,29 +29,29 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=000000)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=001F3F)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=001F3F)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white&labelColor=001F3F)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=001F3F)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=001F3F)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=001F3F)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=001F3F)
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=000000)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=000000)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white&labelColor=DC143C)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=001F3F)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=001F3F)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000&labelColor=001F3F)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=001F3F)
+![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=000000&labelColor=001F3F)
 
 <br/>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=000000)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=000000)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000)
-![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=DC143C)
-![Claude](https://img.shields.io/badge/Claude-CC9B7A?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=000000)
-![V2Ray](https://img.shields.io/badge/V2Ray-2F89FC?style=for-the-badge&logo=v2ray&logoColor=white&labelColor=000000)
-![VPN](https://img.shields.io/badge/VPN-00A4EF?style=for-the-badge&logo=expressvpn&logoColor=white&labelColor=000000)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=001F3F)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=001F3F)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white&labelColor=001F3F)
+![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=001F3F)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=001F3F)
+![V2Ray](https://img.shields.io/badge/V2Ray-0D96F6?style=for-the-badge&logo=v2ray&logoColor=white&labelColor=001F3F)
+![VPN](https://img.shields.io/badge/VPN-FF6C2C?style=for-the-badge&logo=openvpn&logoColor=white&labelColor=001F3F)
 
 </div>
 
@@ -104,27 +104,27 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hamix20&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=dc143c&icon_color=dc143c&text_color=ffffff&count_private=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamix20&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=dc143c&text_color=ffffff" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=Hamix20&show_icons=true&theme=react&hide_border=true&bg_color=001F3F&title_color=0099FF&icon_color=0099FF&text_color=ffffff&count_private=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamix20&layout=compact&theme=react&hide_border=true&bg_color=001F3F&title_color=0099FF&text_color=ffffff" height="180" />
 
 </div>
 
 <div align="center">
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamix20&theme=radical&hide_border=true&background=0D1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamix20&theme=react&hide_border=true&background=001F3F&ring=0099FF&fire=0099FF&currStreakLabel=0099FF" />
 </div>
 
 <div align="center">
 <br>
-<img src="https://github-profile-trophy.vercel.app/?username=Hamix20&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Hamix20&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15" width="100%"/>
 </div>
 
 <div align="center">
 <br>
-<img src="https://komarev.com/ghpvc/?username=Hamix20&style=for-the-badge&color=dc143c&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=Hamix20&style=for-the-badge&color=0099FF&label=Profile+Views" />
 </div>
 
 <div align="center">
 <br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:003366,100:000000&height=100&section=footer" width="100%"/>
 </div>

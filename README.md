@@ -1,22 +1,19 @@
 <div align="center">
 
-  <!-- Header Image -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=280&section=header&text=Hamidreza%20Ranjkesh&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=50" alt="Header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=280&section=header&text=Hamidreza%20Ranjkesh&fontSize=75&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineer%20|%20Full%20Stack%20Developer%20|%20Security%20Researcher&descAlignY=55&descAlign=50" width="100%"/>
 
-  <!-- Typing Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3366CC&center=true&vCenter=true&width=435&lines=Building+Robust+Systems;Automating+Workflows;Integrating+Local+AI+Models;Network+%26+Server+Admin" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=Automation+%26+System+Architecture;Security+Tools+Development;AI+Integration+Specialist;Telegram+Bot+Development" alt="Typing SVG" />
+</a>
+
+<p>
+  <a href="https://t.me/Hamix_20">
+    <img src="https://img.shields.io/badge/Telegram-Hamix__20-DC143C?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000"/>
   </a>
-
-  <!-- Social Links -->
-  <p>
-    <a href="https://t.me/Hamix_20">
-      <img src="https://img.shields.io/badge/Telegram-Hamix__20-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-    </a>
-    <a href="mailto:hamidreza.ranjkesh80@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-  </p>
+  <a href="mailto:hamidreza.ranjkesh80@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-DC143C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
+  </a>
+</p>
 
 </div>
 
@@ -24,61 +21,117 @@
 
 ### 👨‍💻 About Me
 
-مهندس کامپیوتر با تمرکز بر توسعه سیستم‌های کاربردی و خودکارسازی. رویکرد من در برنامه‌نویسی **حل مسئله به روش مهندسی** است؛ کد تمیز، معماری پایدار و مستندسازی دقیق. علاقه شدیدی به ادغام مدل‌های هوش مصنوعی (Local LLMs) در بسترهای وب و مدیریت سرورهای لینوکسی دارم.
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Hamidreza Ranjkesh"
+        self.role = "Computer Engineer & Full Stack Developer"
+        self.focus = ["Automation", "Security Tools", "AI Integration", "Bot Development"]
+        self.motto = "Build it right, or don't build it at all."
+    
+    def get_expertise(self):
+        return {
+            "languages": ["Python", "Go", "C#", "JavaScript"],
+            "ai_ml": ["Ollama", "Qwen", "Gemini", "Local LLMs"],
+            "infra": ["Docker", "Nginx", "Linux", "N8N"],
+            "security": ["SSH Tools", "Network Analysis", "RDP Security"]
+        }
+```
 
-- 🔭 **در حال کار روی:** سیستم‌های پردازش متن آفلاین با مدل‌های زبانی (Ollama/Qwen).
-- 🌱 **تکنولوژی‌های مورد علاقه:** Python, Go, Nginx, Telegram Bot API.
-- ⚡ **شعار من:** "یا کاری را انجام نده، یا آنقدر خوب انجام بده که جای نقد باقی نماند."
+🔭 **Currently Working On:** Offline AI systems + Advanced automation workflows  
+⚡ **Philosophy:** Clean code, scalable architecture, comprehensive documentation
 
 ---
 
-### 🛠️ Technical Stack
+### 🛠️ Technical Arsenal
 
 <div align="center">
-  
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  
-  <br/>
 
-  <!-- Tools & Frameworks -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=000000)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=000000)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=000000)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white&labelColor=DC143C)
 
 </div>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Project Portfolio
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🤖 AI Offline Site** | پلتفرم وب برای اجرای مدل‌های زبانی آفلاین (مانند Qwen2.5). ادغام کامل با Ollama برای پردازش امن و محلی بدون نیاز به اینترنت. | `Python` `Ollama` `Qwen2.5` `Flask` |
-| **🆔 Student Card Gen** | سیستم تولید کارت دانشجویی تک‌صفحه‌ای (SPA). قابلیت Drag & Drop فیلدها، پیش‌نمایش زنده و ذخیره‌سازی تنظیمات کاربر. | `JS (ES6)` `HTML5` `CSS3` `Canvas API` |
+<details open>
+<summary><b>🤖 AI & Automation Projects</b></summary>
+<br>
+
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| **AI Offline Site** | Platform for running local LLMs (Qwen2.5) via Ollama. Secure offline AI processing without internet dependency. | `Python` `Flask` `Ollama` `Qwen2.5` |
+| **Good Sender Telegram** | Advanced Telegram automation bot with RAT capabilities for Windows systems. Multi-threaded message distribution. | `Python` `Telegram API` `asyncio` |
+| **Bot Sina CFX** | Cryptocurrency trading bot with advanced signal analysis and automated trade execution. | `Python` `Trading APIs` |
+| **Bot Gen Code VPN** | VPN code generator bot for Legend Team. Automated subscription management system. | `Python` `Telegram Bot` |
+| **Dm Bot Telegram** | Mass DM automation tool for Telegram channels. Intelligent rate limiting and account rotation. | `Python` `Telethon` |
+| **Bio Telegram** | Bio management bot for Telegram profiles. Automated profile updates and synchronization. | `Python` `Telegram API` |
+
+</details>
+
+<details open>
+<summary><b>🔒 Security & Network Tools</b></summary>
+<br>
+
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| **SSH Tools** | High-performance SSH brute force tool with dictionary attacks and intelligent retry logic. | `Go` `concurrency` |
+| **Password Nevis** | Advanced password analysis and security auditing tool. Dictionary-based attacks with pattern recognition. | `Python` |
+| **Wallet Finder System** | Cryptocurrency wallet discovery tool. Efficient blockchain address scanning and validation. | `Go` `blockchain APIs` |
+
+</details>
+
+<details open>
+<summary><b>⚙️ Utility & Development Tools</b></summary>
+<br>
+
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| **File Splitter Pro** | High-speed file splitting and merging utility. Handles large files with multi-threaded processing. | `Go` `io streams` |
+| **Alpha Clear** | System cleanup and optimization tool. Automated cache clearing and registry management. | `Go` `system APIs` |
+| **Student Card** | Single-page application for generating student ID cards. Drag & drop interface with live preview and Canvas-based rendering. | `JavaScript ES6` `HTML5` `CSS3` `Canvas API` |
+
+</details>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamix20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamix20&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hamix20&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=dc143c&icon_color=dc143c&text_color=ffffff&count_private=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamix20&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=dc143c&text_color=ffffff" height="180" />
+
 </div>
 
 <div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamix20&theme=tokyonight&hide_border=true" alt="streak graph" />
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamix20&theme=radical&hide_border=true&background=0D1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C" />
 </div>
 
-<br/>
+<div align="center">
+<br>
+<img src="https://github-profile-trophy.vercel.app/?username=Hamix20&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" width="100%"/>
+</div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hamix20&style=flat-square&color=blue&label=Profile+Views" alt="profile views" />
+<br>
+<img src="https://komarev.com/ghpvc/?username=Hamix20&style=for-the-badge&color=dc143c&label=Profile+Views" />
+</div>
+
+<div align="center">
+<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer" width="100%"/>
 </div>

@@ -1,4 +1,4 @@
-@@ -1,130 +1,42 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:003366,100:000000&height=280&section=header&text=Hamidreza%20Ranjkesh&fontSize=75&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineer%20|%20Full%20Stack%20Developer%20|%20Security%20Researcher&descAlignY=55&descAlign=50" width="100%"/>
